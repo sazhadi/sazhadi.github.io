@@ -12,12 +12,27 @@
     <div class="banner">
         <h1>Saz Hadi's Circl Application</h1>
     
-    </div>
-    
-<!-- Make this sticky or float like have it open on a button that says "what is this page"-->
-    <div id="page_about" >
-        <p> Hi Circl team! I have manually coded this webpage from scratch to tell you all about why I would be a great fit for the Programme Officer Role. If you are not familiar with coding but would like to see how much work goes into creating a simple page like this, follow these steps to open the code:  </p>
-    </div>
+ <!-- About Button-->   
+<div id="mySidebar" class="sidebar">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+  <a> Hi Circl team! I have manually coded this webpage from scratch to tell you all about why I would be a great fit for the Programme Officer Role. If you are not familiar with coding but would like to see how much work goes into creating a simple page like this, follow these steps to open the code: </a>
+</div>
+
+<div id="main">
+  <button class="openbtn" onclick="openNav()">About this page</button>  
+</div>
+
+<script>
+function openNav() {
+  document.getElementById("mySidebar").style.width = "250px";
+  document.getElementById("main").style.marginLeft = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidebar").style.width = "0";
+  document.getElementById("main").style.marginLeft= "0";
+}
+</script>
 
            <h1 id="about_heading"> A bit about me </h1>
 
