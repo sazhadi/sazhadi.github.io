@@ -56,9 +56,11 @@
   -ms-transform: translateX(50%);
   transform: translateX(150%);
   border-radius: 10%;
+    
+}
 
 .openbtn:hover {
-  background-color: #444;
+  background-color: lightblue;
 }
 
 #main {
@@ -68,7 +70,7 @@
    
     
   
-}
+
 
 #about_heading{
     text-align: center;
