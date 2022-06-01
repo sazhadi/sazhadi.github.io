@@ -10,7 +10,17 @@
     font-size: 33px;
 }
 
+#page_about{
+    font-style: italic;
+    color: grey;
+   
+    
+  
+}
 
+#about_heading{
+    text-align: center;
+}
 
   .container {
         display: flex;
