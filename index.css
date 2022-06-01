@@ -19,6 +19,7 @@
       }
       img {
         max-width: 100%
+        padding: 40px, 70px, 40px, 40px;
       }
       #riga_cat {
         flex-basis: 40%
