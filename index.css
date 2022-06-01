@@ -53,8 +53,7 @@
   margin: 0;
   position: absolute;
   top: 50%;
-  -ms-transform: translateX(50%);
-  transform: translateX(150%);
+  transform: translateX(50%);
   border-radius: 10%;
     
 }
