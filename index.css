@@ -9,3 +9,15 @@
     font-style: italic;
     font-size: 33px;
 }
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
