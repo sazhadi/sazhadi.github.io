@@ -22,3 +22,10 @@
 .right {
   width: 75%;
 }
+
+
+img {
+  border-radius: 8px;
+  max-width: 70%;
+  height: auto;
+}
