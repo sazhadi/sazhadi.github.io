@@ -1,0 +1,11 @@
+* {
+    font-family:sans-serif;
+
+}
+
+.banner {
+    color: white;
+    background-color: #0001be;
+    font-style: italic;
+    font-size: 33px;
+}
