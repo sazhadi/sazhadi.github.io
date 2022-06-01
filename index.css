@@ -14,9 +14,14 @@
 
 
 #riga_cat {
-  border-radius: 5px;
-  height: 300px;  
-  float:right;
+    border-radius: 5px;
+    height: 300px;  
+    object-fit: cover;
+    display: block;
+    vertical-align: middle;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
 }
 
 #about_text {
