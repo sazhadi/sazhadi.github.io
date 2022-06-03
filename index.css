@@ -55,8 +55,7 @@
   border: none;
   margin: 0;
   position: absolute;
-  top: 50%;
-  transform: translateX(50%);
+  top: 10%;
   border-radius: 10%;
     
 }
