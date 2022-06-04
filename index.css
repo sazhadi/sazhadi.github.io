@@ -55,10 +55,9 @@
   border: none;
   margin: 0;
   position: absolute;
-  top: 10%;
-  border-radius: 14%;
+  top: 14%;
   -ms-transform: translateX(50%);
-  transform: translateX(150%);
+  transform: translateX(200%);
     
 }
 
