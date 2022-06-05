@@ -51,13 +51,13 @@
   cursor: pointer;
   background-color: blue;
   color: white;
-  padding: 50px 15px;
+  padding: 20px 15px;
   border: none;
-  margin: 0;
+  margin: 30px;
   position: absolute;
   top: 16%;
   -ms-transform: translateX(50%);
-  transform: translateX(230%);
+  transform: translateX(250%);
     
 }
 
