@@ -54,7 +54,7 @@
   padding: 20px 15px;
   border: none;
   margin: 30px;
-  position: absolute;
+  position: block;
   top: 16%;
   -ms-transform: translateX(50%);
   transform: translateX(250%);
