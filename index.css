@@ -87,14 +87,20 @@
         max-width: 100%;
         padding: 40px 70px 40px 40px;
         border-radius: 40px;
+        border: 3px solid lightblue;
       }
       #riga_cat {
-        flex-basis: 40%
+        flex-basis: 40%;
+        border-radius: 40px;
+        border: 3px solid lightblue;
+            
       }
       #about_text {
         font-size: 20px;
         padding-left: 20px'
       }
+
+
 
 
    
