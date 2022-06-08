@@ -86,7 +86,7 @@
 img {
         max-width: 100%;
         margin: 40px 70px 40px 40px;
-        border: 3px solid lightblue;
+        
       }
 
 
@@ -104,6 +104,12 @@ img {
 
 #experience_text {
     font-size: 20px;
+}
+
+#wedding_pic {
+    flex-basis: 40%;
+    border: 3px solid lightblue;
+    border-radius: 40px;
 }
 
 
