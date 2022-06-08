@@ -3,7 +3,6 @@
 * {
     color: white;
     background-color: #0001be;
-    font-style: italic;
     font-size: 33px;
     margin: 30px;
     text-align: center;
@@ -13,6 +12,11 @@
 
 .banner{ 
     font-size: 38px;
+    font-style: italic;
+}
+
+h2 {
+    font-style: italic;
 }
 
 .sidebar {
