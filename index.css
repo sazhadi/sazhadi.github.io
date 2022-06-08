@@ -78,24 +78,28 @@
     text-align: center;
 }
 
-  .container {
+
+.container {
         display: flex;
         align-items: center;
         justify-content: center
       }
-      img {
+
+img {
         max-width: 100%;
-        padding: 40px 70px 40px 40px;
-        border-radius: 40px;
+        margin: 40px 70px 40px 40px;
         border: 3px solid lightblue;
       }
-      #riga_cat {
+
+
+#riga_cat {
         flex-basis: 40%;
         border-radius: 40px;
         border: 3px solid lightblue;
             
-      }
-      #about_text {
+      } 
+
+#about_text {
         font-size: 20px;
         padding-left: 20px'
       }
