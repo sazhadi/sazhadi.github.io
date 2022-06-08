@@ -3,13 +3,14 @@
 
 }
 
-.banner {
+* {
     color: white;
     background-color: #0001be;
     font-style: italic;
     font-size: 33px;
     margin: 30px;
     text-align: center;
+    font-family:sans-serif;
 }
 
 
